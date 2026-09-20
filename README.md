@@ -36,6 +36,7 @@ Add WeChat | 添加江树微信: **1796060717**
 ## Frameworks & Platforms | 框架与平台
 
 ### Comprehensive Frameworks | 综合性框架
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 | Name | Stars | Description | Notes |
 |------|-------|-------------|-------|
